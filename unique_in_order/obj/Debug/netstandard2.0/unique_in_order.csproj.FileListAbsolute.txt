@@ -1,0 +1,9 @@
+C:\Users\jdema\source\repos\unique_in_order\bin\Debug\netstandard2.0\unique_in_order.deps.json
+C:\Users\jdema\source\repos\unique_in_order\bin\Debug\netstandard2.0\unique_in_order.dll
+C:\Users\jdema\source\repos\unique_in_order\bin\Debug\netstandard2.0\unique_in_order.pdb
+C:\Users\jdema\source\repos\unique_in_order\obj\Debug\netstandard2.0\unique_in_order.csprojAssemblyReference.cache
+C:\Users\jdema\source\repos\unique_in_order\obj\Debug\netstandard2.0\unique_in_order.csproj.CoreCompileInputs.cache
+C:\Users\jdema\source\repos\unique_in_order\obj\Debug\netstandard2.0\unique_in_order.AssemblyInfoInputs.cache
+C:\Users\jdema\source\repos\unique_in_order\obj\Debug\netstandard2.0\unique_in_order.AssemblyInfo.cs
+C:\Users\jdema\source\repos\unique_in_order\obj\Debug\netstandard2.0\unique_in_order.dll
+C:\Users\jdema\source\repos\unique_in_order\obj\Debug\netstandard2.0\unique_in_order.pdb
